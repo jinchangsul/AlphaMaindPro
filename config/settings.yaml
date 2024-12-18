@@ -1,0 +1,4 @@
+exchange: mock
+trading_pair: "BTC/USDT"
+order_amount: 0.001
+interval_seconds: 5
